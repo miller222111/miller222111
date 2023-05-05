@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AndrewMiller/<OWNER>/<OWNER>/"https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg" "Header")](https://www.yahoo.com)
+[![Andrew Miller Header](https://raw.githubusercontent.com/AndrewMiller/AndrewMiller/main/icon/maxresdefault.jpg)](https://www.yahoo.com)
 
 <!---
 <picture>
