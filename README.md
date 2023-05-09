@@ -18,7 +18,7 @@
   
 - 👨‍🔬 Data Scientist currently working on developing the ML pipeline of a computer assisted wagering product.
 
-- :seedling Dedicated to investigating new mathematical techniques and tools for solving predictive analytics problems.
+- 🌱 Dedicated to investigating new mathematical techniques and tools for solving predictive analytics problems.
 
 - 🌻 In my free time, I enjoy developing my soft-skills (e.g. interpersonal skills).
 
