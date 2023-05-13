@@ -35,8 +35,6 @@
 - [Modeling of Power Grid Loads based on High Rate Grid Data (Discrete Time).](https://github.com/miller222111/miller222111/blob/main/icon/load_discrete_presentation.pdf)
 - [Modeling of Power Grid Loads based on High Rate Grid Data (Continuous Time).](https://github.com/miller222111/miller222111/blob/main/icon/load_continuous.pdf)
 
-Modeling of Power Grid Loads based on High Rate Grid Data
-
 ### Industry Projects
 
 ### Some Other Func!
