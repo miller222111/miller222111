@@ -30,10 +30,10 @@
 
 ### Academic Projects
 
-- [Nonlinear Dynamics in the Periodically Forced Bouncing Car: An Experimental and Theoretical Study (Poster).](https://github.com/miller222111/miller222111/blob/main/icon/poster_presentation_copy.pdf)
-- [Nonlinear Dynamics in the Periodically Forced Bouncing Car: An Experimental and Theoretical Study (Paper).](https://github.com/miller222111/miller222111/blob/main/icon/Bouncing_Car11.pdf)
-- [Modeling of Power Grid Loads based on High Rate Grid Data (Discrete Time).](https://github.com/miller222111/miller222111/blob/main/icon/load_discrete_presentation.pdf)
-- [Modeling of Power Grid Loads based on High Rate Grid Data (Continuous Time).](https://github.com/miller222111/miller222111/blob/main/icon/load_continuous.pdf)
+- [Nonlinear Dynamics in the Periodically Forced Bouncing Car: An Experimental and Theoretical Study (Poster).](https://github.com/miller222111/miller222111/blob/main/docs/poster_presentation_copy.pdf)
+- [Nonlinear Dynamics in the Periodically Forced Bouncing Car: An Experimental and Theoretical Study (Paper).](https://github.com/miller222111/miller222111/blob/main/docs/Bouncing_Car11.pdf)
+- [Modeling of Power Grid Loads based on High Rate Grid Data (Discrete Time).](https://github.com/miller222111/miller222111/blob/main/docs/load_discrete_presentation.pdf)
+- [Modeling of Power Grid Loads based on High Rate Grid Data (Continuous Time).](https://github.com/miller222111/miller222111/blob/main/docs/load_continuous.pdf)
 
 ### Industry Projects
 
