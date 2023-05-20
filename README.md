@@ -37,6 +37,8 @@
 
 ### Industry Projects
 
+- [All projects are IP related, but descriptions can be found here.](https://www.linkedin.com/in/andrew-miller-1b657642/)
+
 ### Some Other Func!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miller222111&show_icons=true&locale=en&layout=compact" alt="miller222111" /></p>
