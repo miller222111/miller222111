@@ -16,7 +16,7 @@
  ### :man_technologist: About Me :
  I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, CA.
   
-- 👨‍🔬 Data Scientist currently working on developing a computer assisted wagering product.
+- 👨‍🔬 Data Scientist currently working in the gaming industry.
 
 - 🌱 Dedicated to investigating new mathematical techniques and tools for solving predictive analytics problems.
 
