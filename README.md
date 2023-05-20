@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjZWJhY2NmZmU4YmJmNjJlNTFlODE0YTExNjA5YTY4YzFmMWI4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HKIN1BCAOYNDa/giphy.gif" width="800" height="200"/>
 </div>
-<!--
-<div align="center">
-  <img src="https://assets.wired.com/photos/w_582/wp-content/uploads/2015/12/turning-on-dime.gif" width="800" height="200"/>
-</div>
--->
 
 <h3 align="center">
   👋 and welcome to Andrew's Git profile!
