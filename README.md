@@ -47,4 +47,5 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [New Here and Just Testing This Out!](https://dev.to/miller222111/new-here-and-just-testing-this-out-121h)
 <!-- BLOG-POST-LIST:END -->
