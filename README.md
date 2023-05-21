@@ -20,7 +20,7 @@
   
 - 👨‍🔬 Data Scientist currently working in the gaming industry.
 
-- 🌱 Dedicated to investigating new mathematical techniques and tools for solving predictive analytics problems.
+- 🌱 Investigator of new mathematical techniques and tools for solving predictive analytics problems.
 
 - 🌻 In my free time, I enjoy developing my soft-skills (e.g. interpersonal skills).
 
@@ -64,6 +64,4 @@
 <!-- BLOG-POST-LIST:START -->
 - [New Here and Just Testing This Out!](https://dev.to/miller222111/new-here-and-just-testing-this-out-121h)
 <!-- BLOG-POST-LIST:END -->
-
----
 
